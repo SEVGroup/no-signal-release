@@ -1,6 +1,6 @@
 # NO SIGNAL
 
-**An atmospheric point-and-click adventure in a minimalist cyberpunk world.**
+**A demo level of an atmospheric point-and-click adventure in a minimalist cyberpunk world.**
 
 A solitary traveler, an abandoned transit platform, and a city that no longer answers.
 
