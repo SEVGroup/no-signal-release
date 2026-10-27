@@ -67,5 +67,3 @@ Feel free to [open an issue](https://github.com/SEVGroup/no-signal-release/issue
 ## 📸 Screenshots
 
 ![The Last Stop — the abandoned platform](screenshots/the-last-stop.png)
-
-![The tower entrance — sliding doors](screenshots/tower-door.png)
